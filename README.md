@@ -24,4 +24,4 @@ Veja no Giff abaixo:
 
 </div>
 
-Link para visitar no navegador: https://natanielima.github.io/ProjetoBarbearia/
+Link para visitar no navegador: https://natanielima.github.io/ProjetoBarbeariaAlura/
