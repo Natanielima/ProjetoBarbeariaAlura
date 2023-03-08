@@ -7,4 +7,21 @@ Onde tem uma Home em que contem um menu superior, logo abaixo um carrosel de ima
 
 Veja no Giff abaixo:
 
+<div align="center">
 
+![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(8)%20(1).gif)
+
+</div>
+
+Além disso também foi adicionado duas novas abas, uma de contato que você pode preencher seus dados e outra de serviços prestados com os valores.
+
+Veja no Giff abaixo:
+
+
+<div align="center">
+
+![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(9).gif)
+
+</div>
+
+Link para visitar no navegador: https://natanielima.github.io/ProjetoBarbearia/
