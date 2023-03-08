@@ -9,7 +9,7 @@ Veja no Giff abaixo:
 
 <div align="center">
 
-![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(8)%20(1).gif)
+![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/gif/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(8)%20(1).gif)
 
 </div>
 
@@ -20,7 +20,7 @@ Veja no Giff abaixo:
 
 <div align="center">
 
-![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(9).gif)
+![imagem home](https://github.com/Natanielima/ProjetoBarbearia/blob/master/gif/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp%20(9).gif)
 
 </div>
 
